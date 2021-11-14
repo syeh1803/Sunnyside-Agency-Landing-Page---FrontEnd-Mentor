@@ -18,6 +18,7 @@ Users should be able to:
 
 ### Built with
 
+- Gulp
 - Semantic HTML5 markup
 - SASS/SCSS
 - Flexbox
