@@ -1,0 +1,2 @@
+"use strict";var burger=document.querySelector("#burger"),navList=document.querySelector("#nav-list"),triangle=document.querySelector("#triangle");burger.addEventListener("click",(function(){navList.classList.toggle("show"),triangle.classList.toggle("show"),burger.classList.toggle("menu-open")}));
+//# sourceMappingURL=script.js.map
